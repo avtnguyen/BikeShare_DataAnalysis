@@ -3,7 +3,7 @@ This project is part of the [Google Data Analytics Professional Certificate](htt
 
 #### -- Project Status: [Completed]
 
-## Project Intro/Objective
+## Project Objective
 The purpose of this project is to understand how casual riders and annual members use Cyclistic bikes differently. From these insights, we will design a new marketing strategy to convert casual riders into annual members
 
 
