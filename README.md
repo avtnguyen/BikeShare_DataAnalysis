@@ -1,5 +1,5 @@
 # BikeShare_DataAnalysis
-<img src="https://github.com/avtnguyen/BikeShare_DataAnalysis/blob/main/bike.jpg" width = "500">
+<img src="https://github.com/avtnguyen/BikeShare_DataAnalysis/blob/main/bike.jpg" width = "250">
 This project is part of the [Google Data Analytics Professional Certificate](https://www.coursera.org/learn/google-data-analytics-capstone?specialization=google-data-analytics) at Coursera. 
 
 #### -- Project Status: [Completed]
