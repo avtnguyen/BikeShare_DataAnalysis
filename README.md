@@ -53,7 +53,7 @@ interested in analyzing the Cyclistic historical bike trip data to identify tren
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
 2. Raw Data is can be dowloaded from [Divvy](https://ride.divvybikes.com/system-data), a bike-share company located in Chicago 
 3. Data processing/transformation scripts are being kept [here](https://github.com/avtnguyen/BikeShare_DataAnalysis/blob/a74d16a693aa6295251c913d6494e8631f022b1b/BikeShareProject.Rmd)
-4. Data visualization from Tableau are being kept [here](https://github.com/avtnguyen/BikeShare_DataAnalysis/blob/a74d16a693aa6295251c913d6494e8631f022b1b/DataViz_BikeShareProj.pdf)
+4. Data visualization from Tableau are being kept [here](https://github.com/avtnguyen/BikeShare_DataAnalysis/blob/main/DataViz_BikeShareProj.pdf)
 
 ## References:
 * Case study from [Google Data Analytics Professional Certificate](https://www.coursera.org/learn/google-data-analytics-capstone?specialization=google-data-analytics) at Coursera. 
